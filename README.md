@@ -1,5 +1,5 @@
 # Glossy_llm
-🚀 Fine-Tuning Phi-2 with 4-bit LoRA + DoRA
+🚀 Fine-Tuning Phi-2 with 4-bit DoRA PEFT
 📌 Overview
 This project fine-tunes Microsoft Phi-2 using 4-bit LoRA and DoRA (Decoupled LoRA) for efficient training on low-cost hardware. The goal is to optimize text-to-gloss generation while reducing memory usage.
 
